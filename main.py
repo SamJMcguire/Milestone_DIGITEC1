@@ -1,12 +1,7 @@
 '''This is a place holder'''
 '''
 Rumplestilkson 
-author: Sam McGuire
-version: 1
 
-Description:  This is a guessing game based on the tale
-of Rumplestilskon.  Users have three chances to guess the 
-name randomly selected from the list
 
 '''
 
