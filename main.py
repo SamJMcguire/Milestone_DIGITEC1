@@ -1,6 +1,13 @@
-'''This is a place holder'''
-'''
-Rumplestilkson 
+while bool_playAgain == True:
+    helloWord(str_name, int_age)
+    str_playAgain = input('Would you like to play again? Yes or No').lower()
+    if str_playAgain == 'yes':
+        continue
+    else:
+        bool_playAgain = False
+
+print('Thanks for playing')
+
 
 
 '''
